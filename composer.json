@@ -8,8 +8,8 @@
     "description": "An object oriented implementation of PHP arrays",
     "require": {
         "php": ">=7.4",
-        "himanshu-m/accessors": "v0.0.2",
-        "himanshu-m/strings": "v0.0.1"
+        "himanshu-m/accessors": ">=v0.0.2",
+        "himanshu-m/strings": ">=v0.0.2"
     },
     "autoload": {
         "psr-4": {
