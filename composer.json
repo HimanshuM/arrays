@@ -1,0 +1,13 @@
+{
+    "name": "himanshu-m/arrays",
+    "license": "MIT",
+    "keywords": [
+        "array",
+        "object-oriented array"
+    ],
+    "description": "An object oriented implementation of PHP arrays",
+    "require": {
+        "php": ">=7.4",
+        "himanshu-m/accessors": "v0.0.1"
+    }
+}
