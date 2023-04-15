@@ -3,7 +3,7 @@
 namespace Arrays\Helpers;
 
 use Exception;
-use StringHelpers\Str;
+use Strings\Str;
 
 trait IndexFetcher
 {
